@@ -1,21 +1,5 @@
-# Python cache
-__pycache__/
-*.py[cod]
-
-# Virtual environment
-env/
-venv/
-BooksAPI/
-lib/
-include/
-Scripts/
-
-# OS files
-.DS_Store
-
-# IDE
-.vscode/
-.idea/
-
-# Logs
-*.log
+booksapi/Lib/
+booksapi/Scripts/
+booksapi/_pycache_/
+booksapi/pyvenv.cfg
+*.pyc

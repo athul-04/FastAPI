@@ -1,5 +1,7 @@
-booksapi/Lib/
-booksapi/Scripts/
-booksapi/_pycache_/
-booksapi/pyvenv.cfg
+
 *.pyc
+
+*/Include/
+*/__pycache__/
+*/Lib/
+*/Scripts/
